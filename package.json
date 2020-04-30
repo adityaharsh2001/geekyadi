@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayusharma/birthday.git"
+    "url": "https://github.com/adityaharsh2001/geekyadi.git"
   },
   "keywords": [
     "Birthday"
   ],
-  "author": "Ayush Sharma",
+  "author": "Aditya Harsh",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/ayusharma/birthday/issues"
+    "url": "https://github.com/adityaharsh2001/geekyadi/issues"
   },
-  "homepage": "https://github.com/ayusharma/birthday#readme",
+  "homepage": "https://github.com/adityaharsh2001/geekyadi/blob/master/README.md",
   "dependencies": {
     "http-server": "^0.11.1"
   }
