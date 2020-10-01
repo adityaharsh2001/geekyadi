@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/adityaharsh2001/geekyadi/blob/master/README.md",
   "dependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.12.3"
   }
 }
